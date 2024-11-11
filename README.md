@@ -51,7 +51,7 @@ Before running the Jupyter notebook, make sure to install the following dependen
 2. Navigate to the project directory:
 
    ```bash
-   cd project_name
+   cd datascience_task
    ```
 
 3. Install the necessary dependencies listed above.
