@@ -1,4 +1,3 @@
-```markdown
 # LelapaAI Data Scientist Task
 
 Before running the Jupyter notebook, make sure to install the following dependencies:
@@ -46,7 +45,7 @@ Before running the Jupyter notebook, make sure to install the following dependen
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/project_name.git
+   git clone https://github.com/mokgonyanetb/datascience_task.git
    ```
 
 2. Navigate to the project directory:
@@ -63,16 +62,9 @@ Before running the Jupyter notebook, make sure to install the following dependen
    jupyter notebook
    ```
 
-5. Open the notebook and follow the instructions inside to run the code.
+5. Open the notebook and run the code cell by cell.
 
 ## Notes
 
 - Make sure that the versions of the installed libraries are compatible with your Python environment.
 - If you encounter any issues during installation, refer to the official documentation of the respective packages.
-
-## Author
-
-Your Name  
-Email: mokgonyanetb@gmail.com
-GitHub: [mokgonyanetb](https://github.com/mokgonyanetb)
-```s
