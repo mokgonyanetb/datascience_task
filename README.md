@@ -62,7 +62,7 @@ Before running the Jupyter notebook, make sure to install the following dependen
    jupyter notebook
    ```
 
-5. Open the notebook and run the code cell by cell.
+5. Open the **Lelala AI Sesotho.ipynb** and run the code cell by cell.
 
 ## Notes
 
